@@ -2,12 +2,12 @@
   "version": 1,
   "project": "astropy",
   "project_url": "http://www.astropy.org/",
-  "repo": "https://github.com/astropy/astropy.git",
+  "repo": "https://github.com/astrofrog/astropy.git",
   "install_command": [
     "pip install . matplotlib scipy"
   ],
-  "branches": ["main"],
-  "show_commit_url": "http://github.com/astropy/astropy/commit/",
+  "branches": ["improve-modeling-performance"],
+  "show_commit_url": "http://github.com/astrofrog/astropy/commit/",
   "pythons": ["3.11"],
   "environment_type": "virtualenv"
 }
